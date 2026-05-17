@@ -1,6 +1,6 @@
 # ✅ PyTodo — Command-Line To-Do App
 
-> A simple, lightweight to-do list manager that runs right in your terminal — built with Python and powered by JSON file storage.
+> A simple, lightweight to-do list manager that runs right in your terminal built with Python and powered by JSON file storage.
 
 ---
 
