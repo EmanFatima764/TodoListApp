@@ -163,8 +163,8 @@ The app uses Python's built-in `json` module to **read** the file on startup and
 
 ## 👨‍💻 Developer
 
-Made with ❤️ by **[Your Name]**  
-🔗 GitHub: [@your-username](https://github.com/your-username)
+Made  by **Eman Fatima**  
+🔗 GitHub: https://github.com/EmanFatima764
 
 ---
 
